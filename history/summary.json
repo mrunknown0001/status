@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/bfcgroup.ph.ico",
     "slug": "bfc-auth",
     "status": "down",
-    "uptime": "46.04%",
-    "uptimeDay": "46.04%",
-    "uptimeWeek": "46.04%",
-    "uptimeMonth": "46.04%",
-    "uptimeYear": "46.04%",
+    "uptime": "7.14%",
+    "uptimeDay": "7.14%",
+    "uptimeWeek": "7.14%",
+    "uptimeMonth": "7.14%",
+    "uptimeYear": "7.14%",
     "time": 19363,
     "timeDay": 19363,
     "timeWeek": 19363,
     "timeMonth": 19363,
     "timeYear": 19363,
     "dailyMinutesDown": {
-      "2025-07-01": 1
+      "2025-07-01": 12
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://brooksidegroup.org",
     "icon": "https://icons.duckduckgo.com/ip3/brooksidegroup.org.ico",
     "slug": "bfc-group-website",
-    "status": "down",
-    "uptime": "87.98%",
-    "uptimeDay": "87.98%",
-    "uptimeWeek": "87.98%",
-    "uptimeMonth": "87.98%",
-    "uptimeYear": "87.98%",
-    "time": 19628,
-    "timeDay": 19628,
-    "timeWeek": 19628,
-    "timeMonth": 19628,
-    "timeYear": 19628,
+    "status": "up",
+    "uptime": "8.33%",
+    "uptimeDay": "8.33%",
+    "uptimeWeek": "8.33%",
+    "uptimeMonth": "8.33%",
+    "uptimeYear": "8.33%",
+    "time": 10012,
+    "timeDay": 10012,
+    "timeWeek": 10012,
+    "timeMonth": 10012,
+    "timeYear": 10012,
     "dailyMinutesDown": {
-      "2025-07-01": 0
+      "2025-07-01": 11
     }
   },
   {
