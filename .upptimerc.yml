@@ -3,6 +3,10 @@ owner: mrunknown0001 # Your GitHub organization or username, where this reposito
 repo: status # The name of this repository
 
 sites:
+  - name: BFC Auth
+    url: https://bfcgroup.ph
+  - name: BFC Group Website
+    url: https://brooksidegroup.org
   - name: SMD Dev
     url: https://smd-dev.bfcgroup.ph
   - name: Wikipedia
