@@ -4,19 +4,19 @@
     "url": "https://bfcgroup.ph",
     "icon": "https://icons.duckduckgo.com/ip3/bfcgroup.ph.ico",
     "slug": "bfc-auth",
-    "status": "down",
-    "uptime": "7.14%",
-    "uptimeDay": "7.14%",
-    "uptimeWeek": "7.14%",
-    "uptimeMonth": "7.14%",
-    "uptimeYear": "7.14%",
-    "time": 19363,
-    "timeDay": 19363,
-    "timeWeek": 19363,
-    "timeMonth": 19363,
-    "timeYear": 19363,
+    "status": "up",
+    "uptime": "1.47%",
+    "uptimeDay": "1.47%",
+    "uptimeWeek": "1.47%",
+    "uptimeMonth": "1.47%",
+    "uptimeYear": "1.47%",
+    "time": 9809,
+    "timeDay": 9809,
+    "timeWeek": 9809,
+    "timeMonth": 9809,
+    "timeYear": 9809,
     "dailyMinutesDown": {
-      "2025-07-01": 12
+      "2025-07-01": 69
     }
   },
   {
@@ -25,19 +25,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/brooksidegroup.org.ico",
     "slug": "bfc-group-website",
     "status": "up",
-    "uptime": "8.33%",
-    "uptimeDay": "8.33%",
-    "uptimeWeek": "8.33%",
-    "uptimeMonth": "8.33%",
-    "uptimeYear": "8.33%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 10012,
     "timeDay": 10012,
     "timeWeek": 10012,
     "timeMonth": 10012,
     "timeYear": 10012,
-    "dailyMinutesDown": {
-      "2025-07-01": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "SMD Dev",
